@@ -1,0 +1,6 @@
+{
+  "uuid": "my-keyboard@cinnamon.org",
+  "name": "My Keyboard",
+  "description": "Bug-free Cinnamon keyboard applet",
+  "icon": "keyboard"
+}
